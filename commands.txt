@@ -1,0 +1,10 @@
+                            SETUP COMMANDS
+source .venv/bin/activate
+pip install scrapy
+scrapy startproject pens
+cd pens
+scrapy genspider -t crawl pens gouletpens.com
+
+                            SHELL COMMANDS
+scrapy shell <page to interact with>
+response.css('').get()
