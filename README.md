@@ -4,10 +4,10 @@ Intro to Scrapy presentation for Python Frederick's April 10, 2024 Meetup
 
 Helpful resources:
   <br>
-  Scrapy Docs: https://docs.scrapy.org/en/latest/index.html
+  &emsp;Scrapy Docs: https://docs.scrapy.org/en/latest/index.html
   <br>
-  John Watson Rooney's YouTube channel: https://www.youtube.com/@JohnWatsonRooney
+  &emsp;John Watson Rooney's YouTube channel: https://www.youtube.com/@JohnWatsonRooney
   <br>
-  Zyte Webscraping Sandbox: http://toscrape.com/\
+  &emsp;Zyte Webscraping Sandbox: http://toscrape.com/\
   <br>
-  scrapy-playwright: https://github.com/scrapy-plugins/scrapy-playwright
+  &emsp;scrapy-playwright: https://github.com/scrapy-plugins/scrapy-playwright
