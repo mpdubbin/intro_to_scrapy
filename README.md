@@ -8,6 +8,6 @@ Helpful resources:
   <br>
   &emsp;John Watson Rooney's YouTube channel: https://www.youtube.com/@JohnWatsonRooney
   <br>
-  &emsp;Zyte Webscraping Sandbox: http://toscrape.com/\
+  &emsp;Zyte Webscraping Sandbox: http://toscrape.com/
   <br>
   &emsp;scrapy-playwright Docs: https://github.com/scrapy-plugins/scrapy-playwright
