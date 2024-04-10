@@ -10,4 +10,4 @@ Helpful resources:
   <br>
   &emsp;Zyte Webscraping Sandbox: http://toscrape.com/\
   <br>
-  &emsp;scrapy-playwright: https://github.com/scrapy-plugins/scrapy-playwright
+  &emsp;scrapy-playwright Docs: https://github.com/scrapy-plugins/scrapy-playwright
