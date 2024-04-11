@@ -3,7 +3,7 @@ source .venv/bin/activate
 pip install scrapy
 scrapy startproject pens
 cd pens
-scrapy genspider -t crawl pens gouletpens.com
+scrapy genspider -t crawl penspider gouletpens.com
 
                             SHELL COMMANDS
 scrapy shell <page to interact with>
